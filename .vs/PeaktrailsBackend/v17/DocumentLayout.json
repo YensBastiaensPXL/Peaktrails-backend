@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\data\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\data\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\data\\peaktrailsappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\data\\peaktrailsappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\data\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\data\\peaktrailsappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\data\\peaktrailsappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\fileuploadoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\fileuploadoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|solutionrelative:peaktrailsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81CBE2BC-0597-4B57-8B71-D71D7A0C4294}|PeaktrailsBackend\\PeaktrailsBackend.csproj|c:\\users\\11802975\\onedrive - pxl\\pro2\\react oefenen\\peaktrails project\\peaktrails-backend\\peaktrailsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 341,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PeaktrailsBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PeaktrailsBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:39:31.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "PeaktrailsBackend\\Data\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\UsersRepository.cs",
+              "RelativeToolTip": "PeaktrailsBackend\\Data\\UsersRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:30:57.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FileUploadOperation.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\FileUploadOperation.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\FileUploadOperation.cs",
@@ -110,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PhotosController.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Controllers\\PhotosController.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Controllers\\PhotosController.cs",
@@ -123,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PhotosRepository.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\PhotosRepository.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Data\\PhotosRepository.cs",
@@ -135,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Photo.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\Entities\\Photo.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Data\\Entities\\Photo.cs",
@@ -147,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TrailsRepository.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\TrailsRepository.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Data\\TrailsRepository.cs",
@@ -159,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TrailsController.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Controllers\\TrailsController.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Controllers\\TrailsController.cs",
@@ -171,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Trail.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\Entities\\Trail.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Data\\Entities\\Trail.cs",
@@ -183,19 +217,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Program.cs",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Program.cs",
               "ToolTip": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Program.cs",
               "RelativeToolTip": "PeaktrailsBackend\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:19:25.687Z"
+              "WhenOpened": "2024-09-18T22:19:25.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\appsettings.json",
               "RelativeDocumentMoniker": "PeaktrailsBackend\\appsettings.json",
@@ -213,9 +248,10 @@
               "RelativeDocumentMoniker": "PeaktrailsBackend\\Data\\PeaktrailsAppContext.cs",
               "ToolTip": "C:\\Users\\11802975\\OneDrive - PXL\\PRO2\\React oefenen\\Peaktrails project\\peaktrails-backend\\PeaktrailsBackend\\Data\\PeaktrailsAppContext.cs",
               "RelativeToolTip": "PeaktrailsBackend\\Data\\PeaktrailsAppContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:16:08.209Z"
+              "WhenOpened": "2024-09-18T22:16:08.209Z",
+              "EditorCaption": ""
             }
           ]
         },
